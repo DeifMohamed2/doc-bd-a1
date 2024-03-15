@@ -2,6 +2,8 @@
 
 This project involves a pipeline for data processing and analysis using Python scripts within a Docker container. The pipeline includes data loading, data preprocessing, exploratory data analysis, visualization, and model implementation.
 
+## Docker Hub : https://hub.docker.com/layers/deifmohamed/doc-bd-a1/latest/images/sha256:d13839044b4aa93c48da840c1c62ddbd11f52528adfae1509849117811e83d87?tab=layers
+
 ## Execution Steps
 
 1. **Build Docker Image**: 
