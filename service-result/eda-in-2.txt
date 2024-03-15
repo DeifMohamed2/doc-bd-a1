@@ -1,0 +1,5 @@
+Descriptive statistics of numerical columns:
+        PassengerId  Survived    Pclass        Age     SibSp     Parch       Fare
+mean     446.000000  0.383838  2.308642  29.699118  0.523008  0.381594  32.204208
+median   446.000000  0.000000  3.000000  28.000000  0.000000  0.000000  14.454200
+std      257.353842  0.486592  0.836071  14.526497  1.102743  0.806057  49.693429
