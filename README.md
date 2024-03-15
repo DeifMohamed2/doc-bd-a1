@@ -5,13 +5,13 @@ This project involves a pipeline for data processing and analysis using Python s
 ## Execution Steps
 
 1. **Build Docker Image**: 
-   - After creating the Dockerfile, build it to produce an image.
+   - After creating the Dockerfile, we build it to produce an image.
      ```
      docker build -t bd-a1-image .
      ```
 
 2. **Run Docker Container**: 
-   - Run the container using the generated image.
+   - we Run the container using the generated image.
      ```
      docker run -it --name bd-a1-container bd-a1-image
      ```
@@ -20,7 +20,7 @@ This project involves a pipeline for data processing and analysis using Python s
    - Create the Python files as specified.
    - Initiate the pipeline using the command:
      ```
-     python3 load.py <dataset-path>
+     python3 load.py dataset.csv
      ```
 
 4. **Pipeline Execution**:
